@@ -1,0 +1,216 @@
+2019-10-25 00:33:37,122 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2019-10-25 00:33:39,608 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2019-10-25 00:33:40,678 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2019-10-25 00:33:41,238 [TestNG] INFO CarStepDefinitions - User selects the main-type Cruze
+2019-10-25 00:33:41,747 [TestNG] INFO CarStepDefinitions - User retrieve built-dates by selected main-type
+2019-10-25 00:33:41,752 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e200
+2019-10-25 00:33:41,776 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2009
+2019-10-25 00:33:41,798 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2010
+2019-10-25 00:33:41,819 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2011
+2019-10-25 00:33:41,841 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2012
+2019-10-25 00:33:41,867 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2013
+2019-10-25 00:33:41,894 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2014
+2019-10-25 00:33:41,924 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2015
+2019-10-25 00:33:41,943 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2016
+2019-10-25 00:33:41,950 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2019-10-25 00:33:42,556 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2019-10-25 00:33:43,586 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer Without Wa_key 
+2019-10-25 00:33:43,590 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e401
+2019-10-25 00:33:43,594 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2019-10-25 00:33:44,370 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2019-10-25 00:33:46,163 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer With Invalid Wa_key 
+2019-10-25 00:33:46,166 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2019-10-25 00:33:46,172 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2019-10-25 00:33:46,728 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2019-10-25 00:33:47,261 [TestNG] INFO CarStepDefinitions - user trying to delete manufacturerChevrolet
+2019-10-25 00:33:48,001 [TestNG] INFO CarStepDefinitions - The manufacturer got deleted
+2019-10-25 00:33:48,002 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2019-10-25 00:33:48,006 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2019-10-25 00:33:48,477 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2019-10-25 00:33:48,944 [TestNG] INFO CarStepDefinitions - user trying to create new record for manufacturer
+2019-10-25 00:33:48,946 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e405
+2019-10-25 00:33:48,949 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2019-10-25 00:33:49,401 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2019-10-25 00:33:50,140 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2019-10-25 00:33:51,173 [TestNG] INFO CarStepDefinitions - User sent bad request to fetch main-types 
+2019-10-25 00:33:51,176 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e400
+2020-02-25 16:03:41,963 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:03:43,105 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:03:43,505 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 16:03:43,634 [TestNG] INFO CarStepDefinitions - User selects the main-type Cruze
+2020-02-25 16:03:43,752 [TestNG] INFO CarStepDefinitions - User retrieve built-dates by selected main-type
+2020-02-25 16:03:43,754 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e200
+2020-02-25 16:03:43,771 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2009
+2020-02-25 16:03:43,786 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2010
+2020-02-25 16:03:43,800 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2011
+2020-02-25 16:03:43,818 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2012
+2020-02-25 16:03:43,835 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2013
+2020-02-25 16:03:43,867 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2014
+2020-02-25 16:03:43,888 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2015
+2020-02-25 16:03:43,906 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2016
+2020-02-25 16:03:43,910 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:03:44,012 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:03:44,121 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer Without Wa_key 
+2020-02-25 16:03:44,122 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e401
+2020-02-25 16:03:44,125 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:03:44,233 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:03:44,350 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer With Invalid Wa_key 
+2020-02-25 16:03:44,351 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 16:03:44,355 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:03:44,462 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:03:44,565 [TestNG] INFO CarStepDefinitions - user trying to delete manufacturerChevrolet
+2020-02-25 16:03:44,690 [TestNG] INFO CarStepDefinitions - The manufacturer got deleted
+2020-02-25 16:03:44,691 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 16:03:44,694 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:03:44,797 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:03:44,914 [TestNG] INFO CarStepDefinitions - user trying to create new record for manufacturer
+2020-02-25 16:03:44,916 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e405
+2020-02-25 16:03:44,920 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:03:45,023 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:03:45,283 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 16:03:45,392 [TestNG] INFO CarStepDefinitions - User sent bad request to fetch main-types 
+2020-02-25 16:03:45,394 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e400
+2020-02-25 16:04:32,802 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:04:33,797 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:04:34,188 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 16:04:34,312 [TestNG] INFO CarStepDefinitions - User selects the main-type Cruze
+2020-02-25 16:04:34,428 [TestNG] INFO CarStepDefinitions - User retrieve built-dates by selected main-type
+2020-02-25 16:04:34,431 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e200
+2020-02-25 16:04:34,445 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2009
+2020-02-25 16:04:34,458 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2010
+2020-02-25 16:04:34,470 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2011
+2020-02-25 16:04:34,480 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2012
+2020-02-25 16:04:34,491 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2013
+2020-02-25 16:04:34,516 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2014
+2020-02-25 16:04:34,532 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2015
+2020-02-25 16:04:34,546 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2016
+2020-02-25 16:04:34,550 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:04:34,655 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:04:34,758 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer Without Wa_key 
+2020-02-25 16:04:34,759 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e401
+2020-02-25 16:04:34,761 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:04:34,858 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:04:34,976 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer With Invalid Wa_key 
+2020-02-25 16:04:34,978 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 16:04:34,983 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:04:35,090 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:04:35,197 [TestNG] INFO CarStepDefinitions - user trying to delete manufacturerChevrolet
+2020-02-25 16:04:35,321 [TestNG] INFO CarStepDefinitions - The manufacturer got deleted
+2020-02-25 16:04:35,323 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 16:04:35,326 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:04:35,449 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:04:35,566 [TestNG] INFO CarStepDefinitions - user trying to create new record for manufacturer
+2020-02-25 16:04:35,567 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e405
+2020-02-25 16:04:35,570 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:04:35,674 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:04:35,856 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 16:04:35,974 [TestNG] INFO CarStepDefinitions - User sent bad request to fetch main-types 
+2020-02-25 16:04:35,976 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e400
+2020-02-25 16:05:11,758 [main] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:05:12,902 [main] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:05:13,316 [main] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 16:05:13,537 [main] INFO CarStepDefinitions - User selects the main-type Cruze
+2020-02-25 16:05:13,666 [main] INFO CarStepDefinitions - User retrieve built-dates by selected main-type
+2020-02-25 16:05:13,668 [main] INFO CarStepDefinitions - The status code is as expected i.e200
+2020-02-25 16:05:13,684 [main] INFO CarStepDefinitions - The built dates are as expected in the response i.e2009
+2020-02-25 16:05:13,696 [main] INFO CarStepDefinitions - The built dates are as expected in the response i.e2010
+2020-02-25 16:05:13,709 [main] INFO CarStepDefinitions - The built dates are as expected in the response i.e2011
+2020-02-25 16:05:13,719 [main] INFO CarStepDefinitions - The built dates are as expected in the response i.e2012
+2020-02-25 16:05:13,729 [main] INFO CarStepDefinitions - The built dates are as expected in the response i.e2013
+2020-02-25 16:05:13,744 [main] INFO CarStepDefinitions - The built dates are as expected in the response i.e2014
+2020-02-25 16:05:13,755 [main] INFO CarStepDefinitions - The built dates are as expected in the response i.e2015
+2020-02-25 16:05:13,768 [main] INFO CarStepDefinitions - The built dates are as expected in the response i.e2016
+2020-02-25 16:05:13,773 [main] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:05:13,884 [main] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:05:13,984 [main] INFO CarStepDefinitions - User is able to Selects Manufacturer Without Wa_key 
+2020-02-25 16:05:13,985 [main] INFO CarStepDefinitions - The status code is as expected i.e401
+2020-02-25 16:05:13,989 [main] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:05:14,090 [main] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:05:14,213 [main] INFO CarStepDefinitions - User is able to Selects Manufacturer With Invalid Wa_key 
+2020-02-25 16:05:14,214 [main] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 16:05:14,218 [main] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:05:14,319 [main] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:05:14,426 [main] INFO CarStepDefinitions - user trying to delete manufacturerChevrolet
+2020-02-25 16:05:14,552 [main] INFO CarStepDefinitions - The manufacturer got deleted
+2020-02-25 16:05:14,553 [main] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 16:05:14,557 [main] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:05:14,869 [main] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:05:14,990 [main] INFO CarStepDefinitions - user trying to create new record for manufacturer
+2020-02-25 16:05:14,992 [main] INFO CarStepDefinitions - The status code is as expected i.e405
+2020-02-25 16:05:14,995 [main] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 16:05:15,101 [main] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 16:05:15,224 [main] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 16:05:15,341 [main] INFO CarStepDefinitions - User sent bad request to fetch main-types 
+2020-02-25 16:05:15,342 [main] INFO CarStepDefinitions - The status code is as expected i.e400
+2020-02-25 20:32:05,959 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 20:32:07,079 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 20:32:07,452 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 20:32:07,673 [TestNG] INFO CarStepDefinitions - User selects the main-type Cruze
+2020-02-25 20:32:07,789 [TestNG] INFO CarStepDefinitions - User retrieve built-dates by selected main-type
+2020-02-25 20:32:07,791 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e200
+2020-02-25 20:32:07,806 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2009
+2020-02-25 20:32:07,819 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2010
+2020-02-25 20:32:07,836 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2011
+2020-02-25 20:32:07,851 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2012
+2020-02-25 20:32:07,866 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2013
+2020-02-25 20:32:07,883 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2014
+2020-02-25 20:32:07,907 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2015
+2020-02-25 20:32:07,935 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2016
+2020-02-25 20:32:07,942 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 20:32:08,056 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 20:32:08,156 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer Without Wa_key 
+2020-02-25 20:32:08,158 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e401
+2020-02-25 20:32:08,161 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 20:32:08,264 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 20:32:08,531 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer With Invalid Wa_key 
+2020-02-25 20:32:08,532 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 20:32:08,536 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 20:32:08,639 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 20:32:08,750 [TestNG] INFO CarStepDefinitions - user trying to delete manufacturerChevrolet
+2020-02-25 20:32:08,879 [TestNG] INFO CarStepDefinitions - The manufacturer got deleted
+2020-02-25 20:32:08,882 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 20:32:08,886 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 20:32:08,994 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 20:32:09,113 [TestNG] INFO CarStepDefinitions - user trying to create new record for manufacturer
+2020-02-25 20:32:09,116 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e405
+2020-02-25 20:32:09,120 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 20:32:09,231 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 20:32:09,352 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 20:32:09,474 [TestNG] INFO CarStepDefinitions - User sent bad request to fetch main-types 
+2020-02-25 20:32:09,475 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e400
+2020-02-25 21:06:34,364 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 21:06:36,209 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 21:06:36,841 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 21:06:36,994 [TestNG] INFO CarStepDefinitions - User selects the main-type Cruze
+2020-02-25 21:06:37,117 [TestNG] INFO CarStepDefinitions - User retrieve built-dates by selected main-type
+2020-02-25 21:06:37,121 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e200
+2020-02-25 21:06:37,152 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2009
+2020-02-25 21:06:37,171 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2010
+2020-02-25 21:06:37,192 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2011
+2020-02-25 21:06:37,216 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2012
+2020-02-25 21:06:37,234 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2013
+2020-02-25 21:06:37,254 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2014
+2020-02-25 21:06:37,272 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2015
+2020-02-25 21:06:37,289 [TestNG] INFO CarStepDefinitions - The built dates are as expected in the response i.e2016
+2020-02-25 21:06:37,293 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 21:06:37,411 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 21:06:37,519 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer Without Wa_key 
+2020-02-25 21:06:37,520 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e401
+2020-02-25 21:06:37,524 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 21:06:37,622 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 21:06:37,731 [TestNG] INFO CarStepDefinitions - User is able to Selects Manufacturer With Invalid Wa_key 
+2020-02-25 21:06:37,732 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 21:06:37,736 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 21:06:37,839 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 21:06:37,949 [TestNG] INFO CarStepDefinitions - user trying to delete manufacturerChevrolet
+2020-02-25 21:06:38,081 [TestNG] INFO CarStepDefinitions - The manufacturer got deleted
+2020-02-25 21:06:38,083 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e403
+2020-02-25 21:06:38,086 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 21:06:38,198 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 21:06:38,321 [TestNG] INFO CarStepDefinitions - user trying to create new record for manufacturer
+2020-02-25 21:06:38,323 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e405
+2020-02-25 21:06:38,326 [TestNG] INFO CarStepDefinitions - Checking whether the CAR feature is available
+2020-02-25 21:06:38,431 [TestNG] INFO CarStepDefinitions - The CAR feature is available and the status is 200
+2020-02-25 21:06:38,570 [TestNG] INFO CarStepDefinitions - User selects the manufacture Chevrolet
+2020-02-25 21:06:38,692 [TestNG] INFO CarStepDefinitions - User sent bad request to fetch main-types 
+2020-02-25 21:06:38,694 [TestNG] INFO CarStepDefinitions - The status code is as expected i.e400
